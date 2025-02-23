@@ -1,0 +1,13 @@
+1. Github account
+2. Empty repo
+3. git init
+4. git add README.md
+5. git commit -m "Initial commit"
+6. git branch -M main
+7. git remote add origin https://github.com/sagniklangal/repo.git
+8. Local system
+				git config --global user.name "sagniklangal"
+				git config --global user.email "sagniklangal370@gmail.com"
+9. git push -u origin main
+				9.1 username -> sagniklangal
+				9.2 password -> access token
